@@ -1,2 +1,2 @@
-# Deep-Learning-and-N-eural-Networks
+# Deep-Learning-and-Neural-Networks
 Repo for deeplearning.ai certification on coursera
