@@ -11,6 +11,7 @@ In this notebook we will:
     -Write functions (e.g. forward propagation, backward propagation, logistic loss, etc...) that would help you decompose your code and ease the process of building a neural network.
     - Initialize/update parameters according to your desired structure.
 #### Deep Neural Network - Application:
-    - Learn how to use all the helper functions you built in the previous assignment to build a model of any structure you want.
-    - Experiment with different model architectures and see how each one behaves.
-    - Recognize that it is always easier to build your helper functions before attempting to build a neural network from scratch.
+This notebook allows us to:
+   - Learn how to use all the helper functions you built in the previous assignment to build a model of any structure you want.
+   - Experiment with different model architectures and see how each one behaves.
+   - Recognize that it is always easier to build your helper functions before attempting to build a neural network from scratch.
