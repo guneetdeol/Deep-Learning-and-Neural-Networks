@@ -10,7 +10,7 @@ This notebook would allow one to:
 #### Building a deep neural network: step-by-step :
 In this notebook we will: 
     - Develop an intuition of the over all structure of a neural network.
-    -Write functions (e.g. forward propagation, backward propagation, logistic loss, etc...) that would help you decompose your code and           ease the process of building a neural network.
+    - Write functions (e.g. forward propagation, backward propagation, logistic loss, etc...) that would help you decompose your code and ease the process of building a neural network.
     - Initialize/update parameters according to your desired structure.
     
 #### Deep Neural Network - Application:
