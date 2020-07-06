@@ -16,6 +16,6 @@ In this notebook we will:
     
 ### Deep Neural Network - Application:
 This notebook allows us to:
-   - Learn how to use all the helper functions you built in the previous assignment to build a model of any structure you want.
+   - Learn how to use all the helper functions you built in the building a deep neural network: step by step assignment to build a model of any structure you want.
    - Experiment with different model architectures and see how each one behaves.
    - Recognize that it is always easier to build your helper functions before attempting to build a neural network from scratch.
