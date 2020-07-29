@@ -25,3 +25,4 @@ This notebook allows us to:
 ### Autonomous Driving Application
 ### Covolutional Model Application
 ### Convolutional Model: Step-by-Step
+### Face Recognition
