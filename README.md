@@ -1,7 +1,7 @@
 # Deep-Learning-and-Neural-Networks
 Repo for deeplearning.ai specialization certificate on coursera.
 
-#### Course:1
+#### Course : 1
 ### Planer data Classification :
 This notebook would allow one to:
     - Develop an intuition of back-propagation and see it work on data.
