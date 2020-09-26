@@ -21,10 +21,10 @@ This notebook allows us to:
    - Recognize that it is always easier to build your helper functions before attempting to build a neural network from scratch.
 
 ### Course:2 : Convolutional Neural Networks
-#### Art Generation
-#### Autonomous Driving Application
-#### Covolutional Model Application
-#### Convolutional Model: Step-by-Step
-#### Face Recognition
-#### Keras Tutorial
-#### Residual Networks
+- Art Generation
+- Autonomous Driving Application
+- Covolutional Model Application
+- Convolutional Model: Step-by-Step
+- Face Recognition
+- Keras Tutorial
+- Residual Networks
