@@ -1,5 +1,5 @@
 # Deep-Learning-and-Neural-Networks
-Repo, deeplearning.ai specialization certificate on coursera.
+Repository for deeplearning.ai specialization certificate on coursera.
 
 ## Course : 1
 ### Planer data Classification :
