@@ -27,4 +27,4 @@ This notebook allows us to:
 - Convolutional Model: Step-by-Step
 - Face Recognition
 - Keras Tutorial
-- Residual Networks
+- Residual Networks.
